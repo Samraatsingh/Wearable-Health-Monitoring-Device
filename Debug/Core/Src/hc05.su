@@ -1,0 +1,7 @@
+../Core/Src/hc05.c:30:6:hc05_init	16	static
+../Core/Src/hc05.c:41:10:hc05_available	4	static
+../Core/Src/hc05.c:53:9:hc05_read	16	static
+../Core/Src/hc05.c:69:6:hc05_send_byte	16	static
+../Core/Src/hc05.c:76:6:hc05_send_data	16	static
+../Core/Src/hc05.c:83:6:hc05_send_string	24	static
+../Core/Src/hc05.c:92:6:hc05_uart_rx_callback	24	static

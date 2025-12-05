@@ -1,0 +1,6 @@
+../Core/Src/m95640_driver.c:42:19:SpiEepromInit_HAL	40	static
+../Core/Src/m95640_driver.c:86:6:EepromWriteByte_HAL	24	static
+../Core/Src/m95640_driver.c:105:9:EepromReadByte_HAL	32	static
+../Core/Src/m95640_driver.c:133:13:EepromWriteEnable_HAL	16	static
+../Core/Src/m95640_driver.c:147:6:EepromWriteBuffer_HAL	24	static
+../Core/Src/m95640_driver.c:199:6:EepromReadBuffer_HAL	24	static

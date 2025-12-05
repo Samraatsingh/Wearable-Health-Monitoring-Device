@@ -1,0 +1,4 @@
+../Core/Src/max30102.c:35:6:max30100_init	40	static
+../Core/Src/max30102.c:88:13:max30100_task	40	static
+../Core/Src/max30102.c:110:6:max30100_Interrupt_Callback	16	static,ignoring_inline_asm
+../Core/Src/max30102.c:116:6:max30100_get_data	16	static
